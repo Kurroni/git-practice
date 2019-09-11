@@ -1,0 +1,3 @@
+NAme: Michal
+Age: more than 25
+Favorite Color: Yellow
